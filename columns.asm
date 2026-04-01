@@ -1,11 +1,6 @@
-################# CSC258 Assembly Final Project ###################
 # This file contains our implementation of Columns.
 #
-# Student 1: Kaiwen Yang, 1010855200
-# Student 2: Yifei Yang, 1010963600
-#
-# We assert that the code submitted here is entirely our own
-# creation, and will indicate otherwise when it is not.
+# Kaiwen Yang & Yifei Yang
 #
 ######################## Bitmap Display Configuration ########################
 # - Unit width in pixels:       8
