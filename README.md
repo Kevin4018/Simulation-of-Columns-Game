@@ -75,6 +75,10 @@ How to Run
 4. Select difficulty
 5. Play using the keyboard controls above
 
+MIP Simulators:
+1. Saturn：https://github.com/1whatleytay/saturn/releases
+2. Mars: https://dpetersanderson.github.io/
+
 Authors
 
 - Kaiwen Yang
