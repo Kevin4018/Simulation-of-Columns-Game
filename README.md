@@ -1,4 +1,4 @@
-Columns Game
+A Simulation of Columns Game
 
 A MIPS assembly implementation of the classic Columns puzzle game.  
 Built with bitmap display rendering, keyboard controls, score tracking, difficulty settings, and several gameplay enhancements.
